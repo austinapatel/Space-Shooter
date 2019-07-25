@@ -1,0 +1,10 @@
+Features to Add:
+1. Moveable ship in x and y
+2. Destoyable terration etc. planets
+3. Local multiplayer
+4. Online multiplayer?
+5. Smarter Alien AI
+6. Score
+7. Powerups
+
+hey
